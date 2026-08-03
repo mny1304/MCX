@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <title>MCX - Matin Creator Xperience</title>
+    <style>
+        body {
+            background: #0a0a0f;
+            color: #fff;
+            font-family: sans-serif;
+            text-align: center;
+            padding-top: 100px;
+        }
+        h1 {
+            font-size: 48px;
+            color: #7f5cff;
+        }
+        p {
+            font-size: 20px;
+            color: #bbb;
+        }
+    </style>
+</head>
+<body>
+    <h1>MCX</h1>
+    <p>Matin Creator Xperience</p>
+    <p>سایت رسمی برند MCX</p>
+</body>
+</html>
